@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>set.png</file>
+        <file>state.png</file>
+    </qresource>
+</RCC>
